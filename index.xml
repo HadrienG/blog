@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hadrien Gourlé&#39;s blog</title>
-    <link>/</link>
+    <link>https://www.hadriengourle.com/blog/</link>
     <description>Recent content on Hadrien Gourlé&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hadriengourle.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A placeholder</title>
-      <link>/2018/05/31/a-placeholder/</link>
+      <link>https://www.hadriengourle.com/blog/2018/05/31/a-placeholder/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/31/a-placeholder/</guid>
+      <guid>https://www.hadriengourle.com/blog/2018/05/31/a-placeholder/</guid>
       <description>Nothing to see here&amp;hellip;</description>
     </item>
     
