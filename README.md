@@ -12,6 +12,9 @@ blogdown:::serve_site()
 
 ```r
 blogdown::hugo_build()
+git add public
+git commit -m "new blog post"
+git subtree push --prefix public origin gh-pages
 ```
 
 ## licensing
